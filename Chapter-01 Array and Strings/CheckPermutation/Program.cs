@@ -1,6 +1,5 @@
 ﻿class Program
 {
-
     // time: O(n*log(n)), n = length of a and b
     // space: O(n)
     public static bool CheckPermutationUsingSorting(string a, string b)
@@ -46,7 +45,6 @@
 
         return true;
     }
-
 
     static void Main(string[] args)
     {
